@@ -18,7 +18,7 @@ body {
 #main-page {
     height: 100vh;
     width: 100vw;
-    background-image: url(./bgimg/bgimg.webp);
+    background-image: url(https://randompasswordgenerate.vercel.app/bgimg/bgimg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
